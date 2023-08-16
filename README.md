@@ -1,7 +1,9 @@
 # cypress-automation-47
 Test Case :
 
+- Positive case - As a User, I successfully to Login
+- Negative case - As a User, I failed to Login
 - Positive case - As a User, I can Add Data Product
-- Positive case - As a User, I can find Product by Code
+- Negative case - As a User, I can't find Product by Code
 
 Result Video Record :
