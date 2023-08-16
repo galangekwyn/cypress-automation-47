@@ -1,0 +1,9 @@
+{
+    "status": "success",
+    "data": {
+      "id": 12345,
+      "name": "Sample Product",
+      "price": 1.00
+    }
+  }
+  

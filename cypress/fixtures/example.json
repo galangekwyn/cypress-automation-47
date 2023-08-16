@@ -1,0 +1,17 @@
+{
+    "user": {
+      "name": "Galang",
+      "email": "galang@gmail.com"
+    },
+    "products": [
+      {
+        "name": "Product A",
+        "price": 2.00
+      },
+      {
+        "name": "Product B",
+        "price": 3.00
+      }
+    ]
+  }
+  
